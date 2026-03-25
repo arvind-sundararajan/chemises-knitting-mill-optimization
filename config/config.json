@@ -1,0 +1,1 @@
+{"knitting_mill_capacity": 1000, "production_shifts": 2, "yarn_inventory_threshold": 500, "fabric_quality_control_frequency": 0.1, "optimization_algorithm": "genetic"}
